@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-fastapi = "^0.95.2"
+fastapi = "^0.109.1"
 uvicorn = { extras = ["standard"], version = "^0.23.2" }
 python-dotenv = "^0.21.1"
 asyncpg = "^0.29.0"
